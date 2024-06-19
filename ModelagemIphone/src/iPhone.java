@@ -11,7 +11,7 @@ public class iPhone {
         reprodutor.adicionarNaListaDeReproducao(musica);
         reprodutor.pausar();
         reprodutor.avancar();
-        musica = new Musica("Ele me ama", "Jose", 401);
+        musica = new Musica("Ele me ama", "JoseJr", 401);
         reprodutor.reproduzir(musica);
         reprodutor.adicionarNaListaDeReproducao(musica);
         reprodutor.pausar();
